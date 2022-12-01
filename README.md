@@ -1,3 +1,3 @@
-# angular_servi-os
+# ngServices
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-dgiaua)
+### Angular project about services
